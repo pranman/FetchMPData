@@ -15,5 +15,5 @@ The data is fetched from the [UK Parliament's Members API](https://members.parli
 
 ## Usage
 
-1. Run the script using the command `python GetMPs_optimized.py`
+1. Run the script using the command `python GetMPs.py`
 2. The script will create a JSON file named `HoC_active.json` in the same directory, containing the fetched data.
